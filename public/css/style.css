@@ -1,0 +1,12 @@
+.box1 {
+    height: 190px;
+    padding: 10px;
+    text-align: center;
+    background-color: #CCC;
+    color: black;
+
+}
+
+.box1:nth-child(odd) {
+    background-color: #AAA;
+}
